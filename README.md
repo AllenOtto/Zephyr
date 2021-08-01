@@ -6,7 +6,7 @@ Basic static website for Zephyr.co.ke
 
 Website created from existing web template
 
-Click link below for a quick preview
+Follow link for a quick preview
 https://allenotto.github.io/Zephyr/index.html
 
 ## Contributors
